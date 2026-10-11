@@ -6,7 +6,9 @@ Twelve fine lines on an abstract record player lift and intertwine like fabric i
 
 ## Try it
 
-Open `index.html` in a browser. No installation, build step, or external dependencies are required.
+**[Open the live prototype](https://livianaji12321.github.io/ct-messy-room/)**
+
+Use it directly in your browser. No download or installation is needed.
 
 - Click **Leave something out** to add disorder and fill the hand-drawn progress bar.
 - Drag the tonearm inward, or click it, to untangle the lines and restore neat concentric circles.
