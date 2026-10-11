@@ -24,7 +24,9 @@ This is an expressive representation, not an empirically validated simulation. V
 
 ## Files
 
-- `index.html`: self-contained HTML, CSS, SVG, and JavaScript prototype.
+- `index.html`: page structure and SVG illustration.
+- `style.css`: layout, colors, typography, and visual styling.
+- `script.js`: interactions and animation logic.
 - `in thinking.md`: chronological development record covering decomposition, pattern recognition, abstraction, and algorithms. Earlier entries document earlier versions; later entries record revisions.
 
 Developed through an iterative conversation between the project creator and AI.
